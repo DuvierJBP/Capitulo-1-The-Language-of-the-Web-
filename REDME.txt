@@ -1,0 +1,3 @@
+Esta práctica pertenece al capitulo 1 de Head_First_HTML_and_CSS_Elisabeth_Robson_Eric_Freeman.
+En esta practica se estudian las etiquetas basicas de HTML como son <html>...</html>, <head>...</head> y <body>...</body>,
+junto a algunas etiquetas que estructuran el contenido del cuerpo de la pagina web.
